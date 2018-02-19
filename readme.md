@@ -1,1 +1,1 @@
-React Weather Application
+React Dev files - Researching and Dev. files 
